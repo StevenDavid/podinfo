@@ -1,4 +1,4 @@
-apiVersion: v1
+apiVersion: v2
 version: 6.0.0
 appVersion: 6.0.0
 name: podinfo
@@ -11,4 +11,3 @@ maintainers:
 sources:
 - https://github.com/stefanprodan/podinfo
 kubeVersion: ">=1.19.0-0"
-type: application
